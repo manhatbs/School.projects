@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<style>
+.pink {background-color: rgb(179, 102, 163);} 
+p span {color: rgb(202, 106, 84);} 
+
+
+</style>
+
+<title>Cooking recipes</title>
+</head>
+
+<body>
+<h1><strong>Cooking Recipes</strong></h1>
+
+<table>
+<td>
+<tr><strong> Home </strong></tr>
+<tr><strong> recipe request </strong></tr>
+<tr><strong> about us </strong></tr>
+<tr><strong> more info </strong></tr>
+</td>
+</table>
+
+<p>Here's some <span>easy</span> and <span>yummy</span> recipes:</p>
+<div>
+<h2 class="pink"><strong>Sweet</strong></h2>
+
+<a href="https://youtu.be/XbWy57TcYNk"><img src="Custard.jpg" alt="Custard" style="width:400px;height: 265px;px;"></a>
+<p>Custard</p>
+
+<iframe href="https://youtu.be/XbWy57TcYNk" title="here is ur flippin video">
+</iframe>
+<!-- I give up -->
+
+<div>
+
+<a href="https://youtu.be/V1sPTsGU2HM"><img src="Mango Smoothie.jpg" alt="Mango Smoothie" style="width:400px;height: 265px;px;"></a>
+<p>Mango Smoothie</p>
+<div>
+
+</body>
+</html>
