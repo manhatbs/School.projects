@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<title><strong> Liste </strong> </title>
+<body>
+<table>
+    <tr> 
+        <td>2 </td>
+        
+        <td> 3 </td>
+         <td>2</td>
+        <td> 2</td>
+    </tr>
+    <tr> 
+        <td>2 </td>
+        
+        <td> 3 </td>
+         <td>2</td>
+        <td> 2</td>
+    </tr>
+    <tr> 
+        
+        <td> 2</td>
+        <td> 3 </td>
+         <td>2</td>
+        <td> 2</td>
+    </tr>
+    <tr> 
+        <td>2 </td>
+       
+        <td> 3 </td>
+         <td>2</td>
+        <td> 2</td>
+    </tr>
+    <tr> 
+        <td>2 </td>
+        <td> 2</td>
+        <td> 3 </td>
+         <td>2</td>
+       
+    </tr>
+    <tr> 
+        
+        <td> 2</td>
+        <td> 3 </td>
+         <td>2</td>
+        <td> 2</td>
+    </tr>
+    <tr> 
+        <td>2 </td>
+        <td> 2</td>
+        <td> 3 </td>
+        
+        <td> 2</td>
+    </tr>
+    <tr> 
+        <td>2 </td>
+        <td> 2</td>
+        <td> 3 </td>
+      
+        <td> 2</td>
+    </tr>
+    <tr> 
+        <td>2 </td>
+        <td> 2</td>
+        <td> 3 </td>
+         <td>2</td>
+      
+    </tr>
+    <tr> 
+        <td>2 </td>
+        <td> 2</td>
+        <td> 3 </td>
+        
+        <td> 2</td>
+    </tr>
+</table>
+</body>
+</html>
