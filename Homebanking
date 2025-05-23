@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<title>Home Banking</title>
+<style>
+.rosso {color: red;}
+.verde {color: green;}
+</style>
+</head>
+<body>
+ <h1><strong>LE MIE CARTE </strong></h1>
+ <table>
+    <tr>
+      <th> POSTEPAY BLACK |</th>
+      <th> POSTEPAY GREEN </th>
+     
+    </tr>
+ </table>
+    
+   <img src="https://www.google.com/imgres?q=postepay%20black&imgurl=https%3A%2F%2Fwww.gazzettadinapoli.it%2Fwp-content%2Fuploads%2F2018%2F12%2FCartaPostePayEvolution_mag2018_05_no_stampa_fronte.jpg&imgrefurl=https%3A%2F%2Fwww.gazzettadinapoli.it%2Feconomia-2%2Fpostepay-evolution-la-carta-con-iban-di-poste-italiane-tocca-quota-6-milioni%2F&docid=Wc-d2fpg11DoJM&tbnid=o8QwXFp8PT312M&vet=12ahUKEwi6w_v8naeMAxUFnf0HHbMpAnwQM3oECHEQAA..i&w=550&h=352&hcb=2&ved=2ahUKEwi6w_v8naeMAxUFnf0HHbMpAnwQM3oECHEQAA" alt="carta">
+   
+   <h2><strong>CREDITO ATTUALE: 0,27 &euro;</strong></h2>
+   <div>
+   <h3>ULTIMI ACQUISTI:</h3>
+   <p class="rosso"> Kiko | -3,50 &euro;</p>
+   <p class="rosso"> BAR Teano | -3,25 &euro;</p>
+   <p class="rosso"> LAAM | -110,50 &euro;</p>
+   <h3>TRANSAZIONI:</h3>
+   <div>
+   <p class="rosso"> -10,50 &euro;</p>
+   <p class="rosso"> -3,25 &euro;</p>
+   <p class="verde"> +90,00 &euro;</p>
+   
+   
+  
+
+</body>
+</html>
