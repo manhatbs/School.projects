@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-36">
+<title>Landing page</title>
+</head>
+<body>
+
+<table>
+    <td> 
+        <tr>ඞ </tr>
+        <tr><a href=""> Home </a></tr>
+        <tr><a href=""> Reviews </a></tr>
+         <tr><a href=""> About us </a></tr>
+        <tr><a href=""> Contact </a></tr>
+    </td>
+</table>
+<h1> <strong> iScasso Noob Min 11037</strong> </h1>
+<h2>Non è il miglore telefono ma almeno ci prova.</h2>
+<h3>Stanco dei telefoni troppo smart? Vuoi un dispositivo che non ti faccia sentire inferiore perché sa più cose di te? Ecco a te iScasso Noob Min 11037: semplice, onesto e, diciamocelo... un pò scasso.</h3>
+<br>
+
+<ul>
+<li> <strong>Batteria da 5 mAh </strong>
+<br> Non dura tanto, ma almeno ti farà alzare dalla sedia per cercare il caricatore. Un pò di movimento fa bene! </li>
+<br>
+<li> <strong>Fotocamera da 2 Megapixel</strong>
+<br> Perfetto per foto artistiche... </li>
+<br>
+<li> <strong>Design "unico"</strong>
+<br> RETTANGOLARE, ha angoli... Cosa altro vuoi?</li>
+<br>
+<li> <strong>Resisnte? </strong>
+<br> Se cade avrai una scusa per 11038esimo</li>
+<br>
+<li> <strong>Schermo con "effetto pixel" </strong>
+<br>Non è un bug, è una feature</li>
+</ul>
+<br>
+
+<h2> COMPRE ORA </h2>
+<p><em> Paghi più la spedizione che il telefono </em></p>
+
+</body>
+</html>
